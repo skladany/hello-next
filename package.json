@@ -12,6 +12,8 @@
     "react-markdown": "^3.1.4"
   },
   "scripts": {
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "start": "NODE_ENV=production node server.js"
   }
 }

@@ -12,7 +12,7 @@ Just checking out the *Awesome* next.js Framework!
 * [X] 6.Server Side Support for Clean URLs
 * [X] 7.Fetching Data for Pages
 * [X] 8.Styling Components
-* [ ] 9.Deploying a Next.js App
+* [X] 9.Deploying a Next.js App
 
 #Excel
 
