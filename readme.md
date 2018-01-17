@@ -2,7 +2,7 @@ Just checking out the *Awesome* next.js Framework!
 
 # Tracking My Progress ...
 
-##Basics
+## Basics
 
 * [X] 1.Getting Started
 * [X] 2.Navigate Between Pages
@@ -14,7 +14,7 @@ Just checking out the *Awesome* next.js Framework!
 * [X] 8.Styling Components
 * [X] 9.Deploying a Next.js App
 
-#Excel
+## Excel
 
 * [X] 1.Export into a Static HTML App
 * [X] 2.Lazy Loading Modules
