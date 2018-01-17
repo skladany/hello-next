@@ -11,7 +11,7 @@ Just checking out the *Awesome* next.js Framework!
 * [X] 5.Clean URLs with Route Masking
 * [X] 6.Server Side Support for Clean URLs
 * [X] 7.Fetching Data for Pages
-* [ ] 8.Styling Components
+* [X] 8.Styling Components
 * [ ] 9.Deploying a Next.js App
 
 #Excel
