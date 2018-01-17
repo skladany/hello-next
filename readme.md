@@ -16,6 +16,6 @@ Just checking out the *Awesome* next.js Framework!
 
 #Excel
 
-* [ ] 1.Export into a Static HTML App
+* [X] 1.Export into a Static HTML App
 * [ ] 2.Lazy Loading Modules
 * [ ] 3.Lazy Loading Components
