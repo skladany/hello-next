@@ -18,4 +18,4 @@ Just checking out the *Awesome* next.js Framework!
 
 * [X] 1.Export into a Static HTML App
 * [X] 2.Lazy Loading Modules
-* [ ] 3.Lazy Loading Components
+* [X] 3.Lazy Loading Components
